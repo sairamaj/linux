@@ -1,0 +1,2 @@
+getting node on ubuntu:
+	https://nodejs.org/en/download/package-manager/
