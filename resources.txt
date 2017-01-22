@@ -1,2 +1,6 @@
 getting node on ubuntu:
 	https://nodejs.org/en/download/package-manager/
+Dockarizligng node.js
+	https://nodejs.org/en/docs/guides/nodejs-docker-webapp/
+Uploading the image to docker hub
+        https://docs.docker.com/engine/getstarted/step_six/
