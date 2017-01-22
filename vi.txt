@@ -1,0 +1,5 @@
+i to insert mode
+ESC to command mode
+Shift-ZZ  to save and quit
+:w <filename> to write to file
+dd to delete a line
