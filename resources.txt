@@ -4,3 +4,5 @@ Dockarizligng node.js
 	https://nodejs.org/en/docs/guides/nodejs-docker-webapp/
 Uploading the image to docker hub
         https://docs.docker.com/engine/getstarted/step_six/
+Linux internals
+	http://tldp.org/LDP/tlk/
